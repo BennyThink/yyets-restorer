@@ -1,4 +1,6 @@
 # yyets-restorer
+[![Build Status](https://travis-ci.org/BennyThink/yyets-restorer.svg?branch=master)](https://travis-ci.org/BennyThink/yyets-restorer)
+
 用来解密人人影视客户端下载的视频的工具
 
 

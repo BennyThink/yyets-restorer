@@ -6,4 +6,4 @@ python:
 install:
   - pip install cryptography
 script:
-  - python test/test.py
+  - python test/tests.py

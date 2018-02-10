@@ -46,7 +46,7 @@ def get_aes_key(file_id):
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:
-        print('Usage: python restorer.py sample.mp4 fb755fd1b51c769bfed987e2a8c8b03ee7a8e7cc')
+        print('Usage: python yyets.py sample.mp4 fb755fd1b51c769bfed987e2a8c8b03ee7a8e7cc')
     else:
         aes_key = get_aes_key(sys.argv[2])
         process(sys.argv[1], aes_key)
